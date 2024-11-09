@@ -1,4 +1,4 @@
-- ![Medium](https://img.shields.io/badge/👋-Hey%20there,%20I%20am%20Nasir,%20Welcome%20aboard!%20%20🥷🏻-red?style=flat&labelColor=3F51B5&color=3F51B5)
+- ![Medium](https://img.shields.io/badge/👋-Hey%20there,%20I%20am%20Nasir,%20Welcome%20aboard!%20%20🥷🏻-red?style=flat&labelColor=F44336&color=F44336)
 - 👀 I’m passionate about tech and building great products. 
 - 🌱 I’m currently working on WebAssembly — Rust & Typescript primarily! 
 - [![Medium](https://img.shields.io/badge/📥%20%20📨%20-red?style=flat&labelColor=009688&color=009688&logo=socialblade)](https://blog.nasirb.dev/about)&nbsp;[![Medium](https://img.shields.io/badge/Follow%20On%20Medium%20-@Nasir%20📚%20%20🌐%20-black?style=flat&logo=medium&labelColor=009688&color=3F51B5)](https://blog.nasirb.dev/about)
